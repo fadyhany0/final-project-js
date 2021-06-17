@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+.card{
+    font-weight: bold;
+}
+
+
+.none{
+    display: none;
+}
+
+.check{
+    background-color: gray;
+    text-decoration: line-through;
+}
